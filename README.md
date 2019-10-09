@@ -1,5 +1,5 @@
 # DEVM-TC
-Differentiable evaluation metrics as loss functions for imbalanced text classification  tasks.
+Differentiable Evaluation Metrics as loss functions for imbalanced Text Classification  tasks.
 
 If you use this work, please reference the following work:
 
@@ -12,6 +12,7 @@ If you use this work, please reference the following work:
   pages={4697--4708},
   year={2019}, 
   volume = {36},
+  doi = {10.3233/JIFS-179019}
   publisher={IOS Press}
 }
 ```
